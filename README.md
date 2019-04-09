@@ -3,8 +3,8 @@
 
 上課中，當看到隔壁同學睡的香沉，是否會讓心中想起畢卡索的《睡夢少年》。當心儀的女同學回眸一笑，是否會讓想起佛美爾的《戴珍珠耳環的少女》。名作看似與我們遙遠，實則在生活中仔細觀察，人間處處是藝術。而我們要做的，就是利用人工智慧判斷，我們眼、相機所觀察到的藝術，與哪福藝術大作相似。
 
-## **主題** : LineBot與畫作影像辨識
-## **資料來源** : [Google Art & Culture Portrait](https://artsandculture.google.com/entity/m01dv4h) 
+### **主題** : LineBot與畫作影像辨識
+### **資料來源** : [Google Art & Culture Portrait](https://artsandculture.google.com/entity/m01dv4h) 
 
 ## **專題步驟** :
 1. **爬取圖片** : ✔
