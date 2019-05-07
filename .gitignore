@@ -1,3 +1,7 @@
 pic/
 .ipynb_checkpoints/
 haarcascade_frontalface_default.xml
+*.tfrecords
+data/
+TensorFlow-Tutorials-Chinese-master/
+inception_v3.ckpt

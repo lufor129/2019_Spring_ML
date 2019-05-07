@@ -8,6 +8,6 @@
 
 ## **專題步驟** :
 1. **爬取圖片** : ✔
-2. **data preprocess**
-3. **CNN神經網路訓練** 
+2. **data preprocess**: ✔
+3. **CNN神經網路訓練**: (調參中)
 4. **放上Line Bot**
