@@ -5,3 +5,5 @@ haarcascade_frontalface_default.xml
 data/
 TensorFlow-Tutorials-Chinese-master/
 inception_v3.ckpt
+__pycache__/
+logs/
