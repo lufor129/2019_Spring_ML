@@ -12,4 +12,4 @@
 3. **CNN神經網路訓練**: ✔
 4. **放上Line Bot**: ✔
 
-
+![Linebot](Linebot.png)
