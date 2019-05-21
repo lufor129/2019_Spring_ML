@@ -7,3 +7,6 @@ TensorFlow-Tutorials-Chinese-master/
 inception_v3.ckpt
 __pycache__/
 logs/
+*.csv
+*.json
+PMI 詞彙抓取.ipynb
